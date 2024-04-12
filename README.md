@@ -2,7 +2,8 @@
 # Rapport
 
 I denna uppgift mest av koden som ändrades ligger på activity_main.xml filen. Och där lärde jag mig att lägga in olika 
-layouts, och widgets och hur man justerar dem med kod. Och koden som ändrades är följande
+layouts, och widgets och hur man justerar dem med kod.Tex. hur texten ändras,
+hur färgen och margin kan justeras på olika sätt som visas i koden i snippet som följar.
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
